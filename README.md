@@ -5,7 +5,7 @@ While you might prefer to read about me on my website [Intense Minimalism](https
 The biggest open source project I co-founded — Baker Framework — is not here as it was a shared project and later [we left](https://intenseminimalism.com/2013/bakers-future-say-hello-to-the-new-project-lead/) it to a [new owner from the community](https://github.com/bakerframework). It's something that was quite successful at the time, and makes me very proud as it creates its own open source community.
 
 Projects
-* Baker Framework (open book publishing platform for iPad)
+* Baker Framework (open book publishing platform for iPad, handed over)
 * Blipread (Chrome extension for reading time)
 * Bliphome (Chrome extension for home tab)
 * Blipshot (Chrome extension for full page screenshots, discontinued)
