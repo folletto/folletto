@@ -17,14 +17,15 @@ Contributor
 * Jetpack for WordPress
 
 Experiments & Libraries
+* Roomverse (modular chat system, like Slack)
+* Bear Toolking (MCP and Skill with the Bear CLI)
 * Meek (PHP template engine)
 * WPdo (command line tool for WordPress)
 * Fireprofile (macOS Firefox profiles launcher)
-* Roomverse (modular chat system, like Slack)
 * Kombiner (Node.js librarty to combine multiple JS/CSS files)
 * Statisticator (simple A/B testing calculator)
 * Argilla Mosaic (ActionScript 3 Flash layout library)
 * Blinkslate (WordPress theme)
-* Goo (lighweight PHP framework)
+* Goo (lighweight PHP framework, later JS framework)
 * WP-MailCollector (WordPress plugin to gather emails)
 * WP-WordPressPortal (WordPress library to performa advanced tasks)
