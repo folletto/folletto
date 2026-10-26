@@ -1,0 +1,4 @@
+baseURL = 'https://folletto.github.io/'
+locale = 'en-US'
+title = 'Folletto'
+disableKinds = ['taxonomy', 'term']
